@@ -4,7 +4,6 @@ import { Col } from "react-bootstrap";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faYoutube,
-  faFacebook,
   faTwitter,
   faInstagram,
   faGithub,
