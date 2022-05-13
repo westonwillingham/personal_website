@@ -20,7 +20,10 @@ function Hamburger() {
                 <Link to="/about">ABOUT</Link>
               </li>
               <li>
-                <Link to="/contact">CONTACT</Link>
+                <Link to="/resume">RESUME</Link>
+              </li>
+              <li>
+                <Link to="/connect">CONNNECT</Link>
               </li>
             </ul>
           </div>

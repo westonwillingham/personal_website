@@ -5,6 +5,7 @@
 .fb {
   margin: 2%;
   color: white;
+  height: 60px;
 }
 
 .fb:hover {
@@ -14,6 +15,7 @@
 .git {
   margin: 2%;
   color: white;
+  height: 60px;
 }
 
 .git:hover {
@@ -23,6 +25,7 @@
 .twitter {
   margin: 2%;
   color: white;
+  height: 60px;
 }
 
 .twitter:hover {
@@ -32,6 +35,7 @@
 .insta {
   margin: 2%;
   color: white;
+  height: 60px;
 }
 
 .insta:hover {
@@ -41,6 +45,7 @@
 .linkedin {
   margin: 2%;
   color: white;
+  height: 60px;
 }
 
 .linkedin:hover {
@@ -50,6 +55,7 @@
 .youtube {
   margin: 2%;
   color: white;
+  height: 60px;
 }
 
 .youtube:hover {

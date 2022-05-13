@@ -21,6 +21,7 @@ function Home_Left() {
             />
           </h3>
           <br />
+          &nbsp;
           <Button
             variant="outline-light"
             size="lg"
@@ -31,7 +32,7 @@ function Home_Left() {
               style={{ textDecoration: "none", color: "white" }}
               className="home-left-aboutme"
             >
-              About
+              About Me
             </Link>
           </Button>{" "}
           &nbsp;
@@ -42,7 +43,21 @@ function Home_Left() {
           >
             <Link
               style={{ textDecoration: "none", color: "white" }}
-              to="/contact"
+              to="/resume"
+              className="home-left-aboutme"
+            >
+              Resume
+            </Link>
+          </Button>
+          &nbsp;
+          <Button
+            variant="outline-light"
+            size="lg"
+            className="home-left-aboutmme-btn"
+          >
+            <Link
+              style={{ textDecoration: "none", color: "white" }}
+              to="/connect"
               className="home-left-aboutme"
             >
               Connect

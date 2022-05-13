@@ -1,0 +1,13 @@
+.resume {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  grid-template-areas:
+    "header header"
+    "left right"
+    "footer footer";
+  grid-gap: 1vh;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+}
+    

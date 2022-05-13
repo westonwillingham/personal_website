@@ -7,16 +7,11 @@
 }
 
 .home-right-main-img {
-  height: 65vh;
   margin: auto;
   display: block;
+  text-align: center;
 }
 
 .home-right-footer {
   width: 100%;
-}
-
-.lets-connect {
-  font-family: "Sulphur Point", sans-serif;
-  margin: auto;
 }

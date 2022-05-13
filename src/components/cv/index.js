@@ -1,22 +1,13 @@
-import React from 'react';
-import '../cv/style.css';
-import {
-  Col,
-  Row
-} from 'react-bootstrap';
-import CLC from '../cv_left_content';
-import CRI from '../cv_img';
+import React from "react";
+import "../cv/style.css";
+import { Row } from "react-bootstrap";
+import resume from "../../../src/assets/resume.png";
 
 function CV() {
   return (
-      <Row style={{height:'100%', width:'100%'}}>
-        <Col xl={7} >
-         < CLC />
-        </Col>
-        <Col xl={5}>
-         < CRI />
-        </Col>
-      </Row>
+    <Row>
+      <img src={resume} alt="cv" className="resume" />
+    </Row>
   );
 }
 
