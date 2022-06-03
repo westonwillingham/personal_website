@@ -1,10 +1,9 @@
 import React from "react";
 import "../resume/style.css";
-import { Container, Row, Image } from "react-bootstrap";
+import { Container, Row } from "react-bootstrap";
 import Footer from "../../components/footer";
 import Animate from "react-smooth";
 import HamburgerMenu from "../../components/hamburger_menu";
-import resume from "../../../src/assets/resume.png";
 import { Helmet } from "react-helmet";
 import particles from "../../const/contact_particle.js";
 import Particles from "react-particles-js";
