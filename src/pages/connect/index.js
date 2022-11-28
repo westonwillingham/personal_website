@@ -25,7 +25,7 @@ class Connect extends React.Component {
 			<div>
 				<Helmet>
 					<meta charSet="utf-8" />
-					<title>Contact | Motasim Foad</title>
+					<title>Contact | Weston Willingham</title>
 					<link rel="canonical" href="http://motasimfoad.com/contact" />
 					<meta
 						name="description"
